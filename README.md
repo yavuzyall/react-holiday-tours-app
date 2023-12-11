@@ -1,3 +1,6 @@
+# What is this?
+A small application in which holiday information is extracted with a sample api and then printed beautifully on the screen and contains some functions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
